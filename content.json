@@ -1,0 +1,67 @@
+{
+  "site_name": "Dipl.Stom. Dorit Gares Zahnärztin",
+  "branche": "Zahnarzt",
+  "stadt": "Grevesmühlen",
+  "telefon": "",
+  "email": "",
+  "adresse": "Lindenring 1 a 23948 Klütz",
+  "akzent": "#FFD700",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Zahnärztin Dorit Gares - Gesundheit für Ihr Lächeln",
+  "subline": "Professionelle Zahnbehandlung in Grevesmühlen.",
+  "ueber_titel": "Dipl.Stom. Dorit Gares, Ihre vertrauenswürdige Zahnärztin",
+  "ueber_text": "Als Diplomstomatologin bietet Dr. Dorit Gares hochwertige und individuelle Zahnbehandlungen an. Sie legt besonderen Wert auf eine angenehme Behandlungserfahrung.",
+  "leistungen": [
+    {
+      "titel": "Zahnpflege",
+      "text": "Professionelle Zahnpflegemaßnahmen für gesunde Zähne."
+    },
+    {
+      "titel": "Kieferorthopädie",
+      "text": "Behandlungen zur korrekten Entwicklung des Kiefers und der Zähne."
+    },
+    {
+      "titel": "Zahnreparaturen",
+      "text": "Schnelle und effektive Reparatur von Zahnschäden."
+    }
+  ],
+  "cta_text": "Termin vereinbaren",
+  "seo_title": "Dipl.Stom. Dorit Gares - Zahnärztin Grevesmühlen",
+  "seo_desc": "Professionelle Zahnbehandlungen in Grevesmühlen von Dipl.Stom. Dorit Gares.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "zahnarzt.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Professionelle Zahnreinigung",
+        "ab": 80,
+        "bis": 150
+      },
+      {
+        "name": "Bleaching",
+        "ab": 300,
+        "bis": 700
+      },
+      {
+        "name": "Implantat (Richtwert)",
+        "ab": 1800,
+        "bis": 3500
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
+}
